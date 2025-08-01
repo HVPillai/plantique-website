@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "menu": "Menu",
+    "sustainability": "Sustentabilidade",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Contacte-nos"
+  },
+  "hero": {
+    "badge": "Naturalmente Puro - Coleção Premium",
+    "title": "Desfrute do",
+    "powered": "Vegetal",
+    "goodness": "Bondade",
+    "everyday": "Todos os Dias",
+    "description": "Na Plantique Organics, criamos produtos premium à base de plantas para o estilo de vida moderno. Desde pós de leite artesanais até misturas de bem-estar - experimente nutrição pura, sabor puro.",
+    "rating": "Classificação 4.9/5",
+    "customers": "Mais de 1000 Clientes Felizes",
+    "madeIn": "Feito na Índia 🇮🇳",
+    "orderNow": "ENCOMENDAR AGORA"
+  },
+  "about": {
+    "badge": "Em Breve",
+    "title": "Um Sabor de",
+    "subtitle": "Paraíso Vegano",
+    "description1": "Na Plantique Organics, criamos produtos premium limpos à base de plantas para o estilo de vida moderno exigente. Desde pós de leite de aveia, soja e coco artesanais até misturas de bem-estar como matcha cerimonial e chai latte tradicional.",
+    "description2": "Acreditamos em ingredientes simples, escolhas sustentáveis e nutrição pura - porque o que é bom para si também deve ser extraordinário para o planeta.",
+    "tagline": "Naturalmente Puro. Perfeitamente Você.",
+    "discoverStory": "Descubra a Nossa História"
+  },
+  "products": {
+    "badge": "Em Breve",
+    "title": "A Nossa Coleção Premium",
+    "description": "Descubra o seu novo favorito à base de plantas. Cada produto é meticulosamente elaborado com ingredientes premium para sabor excecional e nutrição sem compromissos.",
+    "comingSoon": "Em Breve",
+    "save": "Poupe",
+    "oatMilk": {
+      "name": "Pó de Leite de Aveia",
+      "description": "Uma alternativa cremosa sem lacticínios feita de aveia integral. Perfeita para smoothies, café e pastelaria.",
+      "badges": ["100% Vegano", "Sem Glúten"]
+    },
+    "soyaMilk": {
+      "name": "Pó de Leite de Soja",
+      "description": "Proteína vegetal em cada colher. Suave, nutritiva e sem lactose.",
+      "badges": ["Alta Proteína", "25g Proteína"]
+    },
+    "coconutMilk": {
+      "name": "Pó de Leite de Coco",
+      "description": "Naturalmente doce e rico, com a bondade dos cocos reais. Ótimo para caril e sobremesas.",
+      "badges": ["Naturalmente Doce", "Rico e Cremoso"]
+    },
+    "almondMilk": {
+      "name": "Pó de Leite de Amêndoa",
+      "description": "Pó de leite de amêndoa rico e cremoso com doçura natural e nutrientes saudáveis para o coração.",
+      "badges": ["Vitamina E", "Saudável para o Coração"]
+    },
+    "matcha": {
+      "name": "Pó de Matcha",
+      "description": "Mistura de matcha de grau cerimonial premium carregada de antioxidantes para energia e foco.",
+      "badges": ["Grau Cerimonial", "Antioxidantes"]
+    },
+    "chaiLatte": {
+      "name": "Pó de Chai Latte",
+      "description": "Um latte vegano quente e temperado feito com sabores tradicionais de chai indiano. Conforto numa chávena.",
+      "badges": ["Especiarias Orgânicas", "Receita Tradicional"]
+    },
+    "lionsMane": {
+      "name": "Pó de Latte Juba de Leão",
+      "description": "Mistura premium de cogumelos adaptogénicos para apoio cognitivo e melhoria da saúde cerebral.",
+      "badges": ["Apoio Cognitivo", "Adaptogénico"]
+    }
+  },
+  "features": {
+    "title": "Porquê Escolher a Plantique?",
+    "description": "Estamos comprometidos em trazer-lhe a nutrição mais pura à base de plantas com qualidade sem compromissos, sabor excecional e práticas sustentáveis.",
+    "plantBased": {
+      "title": "100% à Base de Plantas",
+      "description": "Todos os nossos produtos são completamente veganos, livres de crueldade e feitos com os melhores ingredientes vegetais."
+    },
+    "cleanLabel": {
+      "title": "Promessa de Rótulo Limpo",
+      "description": "Sem aditivos artificiais, conservantes ou ingredientes ocultos. Apenas bondade pura e natural."
+    },
+    "madeInIndia": {
+      "title": "Feito na Índia",
+      "description": "Orgulhosamente elaborado com amor usando ingredientes de origem local de agricultores indianos de confiança."
+    },
+    "premiumQuality": {
+      "title": "Qualidade Premium",
+      "description": "Cada produto é cuidadosamente elaborado para oferecer sabor excecional e valor nutricional."
+    }
+  },
+  "cta": {
+    "title": "Pronto para Começar a Sua Jornada Premium à Base de Plantas?",
+    "description": "Junte-se a milhares de consumidores conscientes que descobriram a mistura perfeita de saúde, sustentabilidade e sabor excecional. Experimente a diferença Plantique.",
+    "button": "Em Breve - Ser Notificado"
+  },
+  "common": {
+    "currency": "€",
+    "reviews": "avaliações"
+  }
+}
+
