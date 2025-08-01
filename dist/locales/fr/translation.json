@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "menu": "Menu",
+    "sustainability": "Durabilité",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Nous Contacter"
+  },
+  "hero": {
+    "badge": "Naturellement Pur - Collection Premium",
+    "title": "Profitez du",
+    "powered": "Végétal",
+    "goodness": "Bienfait",
+    "everyday": "Chaque Jour",
+    "description": "Chez Plantique Organics, nous créons des produits premium à base de plantes pour le mode de vie moderne. Des poudres de lait artisanales aux mélanges de bien-être - découvrez une nutrition pure, un goût pur.",
+    "rating": "Note 4.9/5",
+    "customers": "Plus de 1000 Clients Satisfaits",
+    "madeIn": "Fabriqué en Inde 🇮🇳",
+    "orderNow": "COMMANDER MAINTENANT"
+  },
+  "about": {
+    "badge": "Bientôt Disponible",
+    "title": "Un Goût de",
+    "subtitle": "Paradis Végétalien",
+    "description1": "Chez Plantique Organics, nous créons des produits premium propres à base de plantes pour le mode de vie moderne exigeant. Des poudres de lait d'avoine, de soja et de coco artisanales aux mélanges de bien-être comme le matcha cérémonial et le chai latte traditionnel.",
+    "description2": "Nous croyons en des ingrédients simples, des choix durables et une nutrition pure - parce que ce qui est bon pour vous doit aussi être extraordinaire pour la planète.",
+    "tagline": "Naturellement Pur. Parfaitement Vous.",
+    "discoverStory": "Découvrez Notre Histoire"
+  },
+  "products": {
+    "badge": "Bientôt Disponible",
+    "title": "Notre Collection Premium",
+    "description": "Découvrez votre nouveau favori à base de plantes. Chaque produit est méticuleusement élaboré avec des ingrédients premium pour un goût exceptionnel et une nutrition sans compromis.",
+    "comingSoon": "Bientôt Disponible",
+    "save": "Économisez",
+    "oatMilk": {
+      "name": "Poudre de Lait d'Avoine",
+      "description": "Une alternative crémeuse sans produits laitiers faite d'avoine complète. Parfaite pour les smoothies, le café et la pâtisserie.",
+      "badges": ["100% Végétalien", "Sans Gluten"]
+    },
+    "soyaMilk": {
+      "name": "Poudre de Lait de Soja",
+      "description": "Protéine végétale dans chaque cuillère. Douce, nutritive et sans lactose.",
+      "badges": ["Haute Protéine", "25g Protéine"]
+    },
+    "coconutMilk": {
+      "name": "Poudre de Lait de Coco",
+      "description": "Naturellement sucrée et riche, avec la bonté des vraies noix de coco. Idéale pour les currys et les desserts.",
+      "badges": ["Naturellement Sucré", "Riche et Crémeux"]
+    },
+    "almondMilk": {
+      "name": "Poudre de Lait d'Amande",
+      "description": "Poudre de lait d'amande riche et crémeuse avec une douceur naturelle et des nutriments bons pour le cœur.",
+      "badges": ["Vitamine E", "Bon pour le Cœur"]
+    },
+    "matcha": {
+      "name": "Poudre de Matcha",
+      "description": "Mélange de matcha de qualité cérémoniale premium chargé d'antioxydants pour l'énergie et la concentration.",
+      "badges": ["Qualité Cérémoniale", "Antioxydants"]
+    },
+    "chaiLatte": {
+      "name": "Poudre de Chai Latte",
+      "description": "Un latte végétalien chaud et épicé fait avec des saveurs traditionnelles de chai indien. Le réconfort dans une tasse.",
+      "badges": ["Épices Biologiques", "Recette Traditionnelle"]
+    },
+    "lionsMane": {
+      "name": "Poudre de Latte Crinière de Lion",
+      "description": "Mélange premium de champignons adaptogènes pour le soutien cognitif et l'amélioration de la santé cérébrale.",
+      "badges": ["Soutien Cognitif", "Adaptogène"]
+    }
+  },
+  "features": {
+    "title": "Pourquoi Choisir Plantique ?",
+    "description": "Nous nous engageons à vous apporter la nutrition la plus pure à base de plantes avec une qualité sans compromis, un goût exceptionnel et des pratiques durables.",
+    "plantBased": {
+      "title": "100% à Base de Plantes",
+      "description": "Tous nos produits sont entièrement végétaliens, sans cruauté et faits avec les meilleurs ingrédients végétaux."
+    },
+    "cleanLabel": {
+      "title": "Promesse d'Étiquette Propre",
+      "description": "Pas d'additifs artificiels, de conservateurs ou d'ingrédients cachés. Juste de la bonté pure et naturelle."
+    },
+    "madeInIndia": {
+      "title": "Fabriqué en Inde",
+      "description": "Fièrement élaboré avec amour en utilisant des ingrédients locaux d'agriculteurs indiens de confiance."
+    },
+    "premiumQuality": {
+      "title": "Qualité Premium",
+      "description": "Chaque produit est soigneusement élaboré pour offrir un goût exceptionnel et une valeur nutritionnelle."
+    }
+  },
+  "cta": {
+    "title": "Prêt à Commencer Votre Voyage Premium à Base de Plantes ?",
+    "description": "Rejoignez des milliers de consommateurs conscients qui ont découvert le mélange parfait de santé, durabilité et goût exceptionnel. Découvrez la différence Plantique.",
+    "button": "Bientôt Disponible - Être Notifié"
+  },
+  "common": {
+    "currency": "€",
+    "reviews": "avis"
+  }
+}
+

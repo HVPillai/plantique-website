@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "menu": "Menü",
+    "sustainability": "Nachhaltigkeit",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Natürlich Rein - Premium Kollektion",
+    "title": "Genießen Sie",
+    "powered": "Pflanzliche",
+    "goodness": "Güte",
+    "everyday": "Jeden Tag",
+    "description": "Bei Plantique Organics kreieren wir Premium-Pflanzenprodukte für den modernen Lebensstil. Von handwerklichen Milchpulvern bis hin zu Wellness-Mischungen - erleben Sie reine Ernährung, reinen Geschmack.",
+    "rating": "4.9/5 Bewertung",
+    "customers": "Über 1000 Zufriedene Kunden",
+    "madeIn": "Hergestellt in Indien 🇮🇳",
+    "orderNow": "JETZT BESTELLEN"
+  },
+  "about": {
+    "badge": "Demnächst Verfügbar",
+    "title": "Ein Geschmack von",
+    "subtitle": "Veganem Paradies",
+    "description1": "Bei Plantique Organics kreieren wir saubere, Premium-Pflanzenprodukte für den anspruchsvollen modernen Lebensstil. Von handwerklichen Hafer-, Soja- und Kokosmilchpulvern bis hin zu Wellness-Mischungen wie zeremonieller Matcha und traditioneller Chai Latte.",
+    "description2": "Wir glauben an einfache Zutaten, nachhaltige Entscheidungen und reine Ernährung - denn was gut für Sie ist, sollte auch außergewöhnlich für den Planeten sein.",
+    "tagline": "Natürlich Rein. Perfekt Sie.",
+    "discoverStory": "Entdecken Sie Unsere Geschichte"
+  },
+  "products": {
+    "badge": "Demnächst Verfügbar",
+    "title": "Unsere Premium Kollektion",
+    "description": "Entdecken Sie Ihren neuen pflanzlichen Favoriten. Jedes Produkt wird sorgfältig mit Premium-Zutaten für außergewöhnlichen Geschmack und kompromisslose Ernährung hergestellt.",
+    "comingSoon": "Demnächst Verfügbar",
+    "save": "Sparen Sie",
+    "oatMilk": {
+      "name": "Hafermilchpulver",
+      "description": "Eine cremige, milchfreie Alternative aus ganzen Haferflocken. Perfekt für Smoothies, Kaffee und Backen.",
+      "badges": ["100% Vegan", "Glutenfrei"]
+    },
+    "soyaMilk": {
+      "name": "Sojamilchpulver",
+      "description": "Pflanzliches Protein in jedem Löffel. Sanft, nahrhaft und laktosefrei.",
+      "badges": ["Hoher Proteingehalt", "25g Protein"]
+    },
+    "coconutMilk": {
+      "name": "Kokosmilchpulver",
+      "description": "Natürlich süß und reichhaltig, mit der Güte echter Kokosnüsse. Ideal für Currys und Desserts.",
+      "badges": ["Natürlich Süß", "Reich & Cremig"]
+    },
+    "almondMilk": {
+      "name": "Mandelmilchpulver",
+      "description": "Reichhaltiges und cremiges Mandelmilchpulver mit natürlicher Süße und herzgesunden Nährstoffen.",
+      "badges": ["Vitamin E", "Herzgesund"]
+    },
+    "matcha": {
+      "name": "Matcha Pulver",
+      "description": "Premium-Matcha-Mischung in zeremonieller Qualität voller Antioxidantien für Energie und Konzentration.",
+      "badges": ["Zeremonielle Qualität", "Antioxidantien"]
+    },
+    "chaiLatte": {
+      "name": "Chai Latte Pulver",
+      "description": "Ein warmer, gewürzter veganer Latte mit traditionellen indischen Chai-Aromen. Komfort in einer Tasse.",
+      "badges": ["Bio-Gewürze", "Traditionelles Rezept"]
+    },
+    "lionsMane": {
+      "name": "Löwenmähne Latte Pulver",
+      "description": "Premium-Adaptogen-Pilzmischung für kognitive Unterstützung und Verbesserung der Gehirngesundheit.",
+      "badges": ["Kognitive Unterstützung", "Adaptogen"]
+    }
+  },
+  "features": {
+    "title": "Warum Plantique Wählen?",
+    "description": "Wir sind verpflichtet, Ihnen die reinste pflanzenbasierte Ernährung mit kompromissloser Qualität, außergewöhnlichem Geschmack und nachhaltigen Praktiken zu bieten.",
+    "plantBased": {
+      "title": "100% Pflanzenbasiert",
+      "description": "Alle unsere Produkte sind vollständig vegan, tierversuchsfrei und aus den besten pflanzlichen Zutaten hergestellt."
+    },
+    "cleanLabel": {
+      "title": "Sauberes Etikett Versprechen",
+      "description": "Keine künstlichen Zusatzstoffe, Konservierungsmittel oder versteckten Zutaten. Nur reine, natürliche Güte."
+    },
+    "madeInIndia": {
+      "title": "Hergestellt in Indien",
+      "description": "Stolz mit Liebe hergestellt unter Verwendung lokal bezogener Zutaten von vertrauenswürdigen indischen Bauern."
+    },
+    "premiumQuality": {
+      "title": "Premium Qualität",
+      "description": "Jedes Produkt wird sorgfältig hergestellt, um außergewöhnlichen Geschmack und Nährwert zu liefern."
+    }
+  },
+  "cta": {
+    "title": "Bereit, Ihre Premium-Pflanzenreise zu Beginnen?",
+    "description": "Schließen Sie sich Tausenden bewussten Verbrauchern an, die die perfekte Mischung aus Gesundheit, Nachhaltigkeit und außergewöhnlichem Geschmack entdeckt haben. Erleben Sie den Plantique-Unterschied.",
+    "button": "Demnächst Verfügbar - Benachrichtigt Werden"
+  },
+  "common": {
+    "currency": "€",
+    "reviews": "Bewertungen"
+  }
+}
+

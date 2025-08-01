@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "sustainability": "Sustainability",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "badge": "Naturally Pure - Premium Collection",
+    "title": "Enjoy Plant-",
+    "powered": "Powered",
+    "goodness": "Goodness",
+    "everyday": "Every Day",
+    "description": "At Plantique Organics, we craft premium plant-based products for the modern lifestyle. From artisanal milk powders to wellness blends - experience pure nutrition, pure taste.",
+    "rating": "4.9/5 Rating",
+    "customers": "1000+ Happy Customers",
+    "madeIn": "Made in India 🇮🇳",
+    "orderNow": "ORDER NOW"
+  },
+  "about": {
+    "badge": "Coming Soon",
+    "title": "A Taste of",
+    "subtitle": "Vegan Paradise",
+    "description1": "At Plantique Organics, we create clean, premium plant-based products for the discerning modern lifestyle. From artisanal oat, soya, and coconut milk powders to wellness blends like ceremonial matcha and traditional chai latte.",
+    "description2": "We believe in simple ingredients, sustainable choices, and pure nutrition — because what's good for you should also be extraordinary for the planet.",
+    "tagline": "Naturally Pure. Perfectly You.",
+    "discoverStory": "Discover Our Story"
+  },
+  "products": {
+    "badge": "Coming Soon",
+    "title": "Our Premium Collection",
+    "description": "Discover your new favorite plant-based treat. Each product is meticulously crafted with premium ingredients for exceptional taste and uncompromising nutrition.",
+    "comingSoon": "Coming Soon",
+    "save": "Save",
+    "oatMilk": {
+      "name": "Oat Milk Powder",
+      "description": "A creamy, dairy-free alternative made from whole oats. Perfect for smoothies, coffee, and baking.",
+      "badges": ["100% Vegan", "Gluten-Free"]
+    },
+    "soyaMilk": {
+      "name": "Soya Milk Powder",
+      "description": "Plant-based protein in every scoop. Smooth, nutritious, and lactose-free.",
+      "badges": ["High Protein", "25g Protein"]
+    },
+    "coconutMilk": {
+      "name": "Coconut Milk Powder",
+      "description": "Naturally sweet and rich, with the goodness of real coconuts. Great for curries and desserts.",
+      "badges": ["Naturally Sweet", "Rich & Creamy"]
+    },
+    "almondMilk": {
+      "name": "Almond Milk Powder",
+      "description": "Rich and creamy almond milk powder with natural sweetness and heart-healthy nutrients.",
+      "badges": ["Vitamin E", "Heart Healthy"]
+    },
+    "matcha": {
+      "name": "Matcha Powder",
+      "description": "Premium ceremonial grade matcha blend loaded with antioxidants for energy and focus.",
+      "badges": ["Ceremonial Grade", "Antioxidants"]
+    },
+    "chaiLatte": {
+      "name": "Chai Latte Powder",
+      "description": "A warm, spiced vegan latte made with traditional Indian chai flavors. Comfort in a cup.",
+      "badges": ["Organic Spices", "Traditional Recipe"]
+    },
+    "lionsMane": {
+      "name": "Lion's Mane Latte Powder",
+      "description": "Premium adaptogenic mushroom blend for cognitive support and brain health enhancement.",
+      "badges": ["Cognitive Support", "Adaptogenic"]
+    }
+  },
+  "features": {
+    "title": "Why Choose Plantique?",
+    "description": "We're committed to bringing you the purest plant-based nutrition with uncompromising quality, exceptional taste, and sustainable practices.",
+    "plantBased": {
+      "title": "100% Plant-Based",
+      "description": "All our products are completely vegan, cruelty-free, and made from the finest plant ingredients."
+    },
+    "cleanLabel": {
+      "title": "Clean Label Promise",
+      "description": "No artificial additives, preservatives, or hidden ingredients. Just pure, natural goodness."
+    },
+    "madeInIndia": {
+      "title": "Made in India",
+      "description": "Proudly crafted with love using locally sourced ingredients from trusted Indian farmers."
+    },
+    "premiumQuality": {
+      "title": "Premium Quality",
+      "description": "Every product is carefully crafted to deliver exceptional taste and nutritional value."
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Your Premium Plant-Based Journey?",
+    "description": "Join thousands of conscious consumers who have discovered the perfect blend of health, sustainability, and exceptional taste. Experience the Plantique difference.",
+    "button": "Coming Soon - Get Notified"
+  },
+  "common": {
+    "currency": "₹",
+    "reviews": "reviews"
+  }
+}
+

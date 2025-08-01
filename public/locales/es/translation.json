@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "menu": "Menú",
+    "sustainability": "Sostenibilidad",
+    "faq": "Preguntas Frecuentes",
+    "blog": "Blog",
+    "contact": "Contáctanos"
+  },
+  "hero": {
+    "badge": "Naturalmente Puro - Colección Premium",
+    "title": "Disfruta de lo",
+    "powered": "Vegetal",
+    "goodness": "Bondad",
+    "everyday": "Cada Día",
+    "description": "En Plantique Organics, creamos productos premium a base de plantas para el estilo de vida moderno. Desde polvos de leche artesanales hasta mezclas de bienestar: experimenta nutrición pura, sabor puro.",
+    "rating": "Calificación 4.9/5",
+    "customers": "Más de 1000 Clientes Felices",
+    "madeIn": "Hecho en India 🇮🇳",
+    "orderNow": "ORDENAR AHORA"
+  },
+  "about": {
+    "badge": "Próximamente",
+    "title": "Un Sabor de",
+    "subtitle": "Paraíso Vegano",
+    "description1": "En Plantique Organics, creamos productos premium limpios a base de plantas para el estilo de vida moderno exigente. Desde polvos de leche de avena, soja y coco artesanales hasta mezclas de bienestar como matcha ceremonial y chai latte tradicional.",
+    "description2": "Creemos en ingredientes simples, elecciones sostenibles y nutrición pura, porque lo que es bueno para ti también debe ser extraordinario para el planeta.",
+    "tagline": "Naturalmente Puro. Perfectamente Tú.",
+    "discoverStory": "Descubre Nuestra Historia"
+  },
+  "products": {
+    "badge": "Próximamente",
+    "title": "Nuestra Colección Premium",
+    "description": "Descubre tu nuevo favorito a base de plantas. Cada producto está meticulosamente elaborado con ingredientes premium para un sabor excepcional y nutrición sin compromisos.",
+    "comingSoon": "Próximamente",
+    "save": "Ahorra",
+    "oatMilk": {
+      "name": "Polvo de Leche de Avena",
+      "description": "Una alternativa cremosa sin lácteos hecha de avena integral. Perfecta para batidos, café y repostería.",
+      "badges": ["100% Vegano", "Sin Gluten"]
+    },
+    "soyaMilk": {
+      "name": "Polvo de Leche de Soja",
+      "description": "Proteína vegetal en cada cucharada. Suave, nutritiva y sin lactosa.",
+      "badges": ["Alta Proteína", "25g Proteína"]
+    },
+    "coconutMilk": {
+      "name": "Polvo de Leche de Coco",
+      "description": "Naturalmente dulce y rica, con la bondad de los cocos reales. Ideal para currys y postres.",
+      "badges": ["Naturalmente Dulce", "Rica y Cremosa"]
+    },
+    "almondMilk": {
+      "name": "Polvo de Leche de Almendra",
+      "description": "Polvo de leche de almendra rico y cremoso con dulzura natural y nutrientes saludables para el corazón.",
+      "badges": ["Vitamina E", "Saludable para el Corazón"]
+    },
+    "matcha": {
+      "name": "Polvo de Matcha",
+      "description": "Mezcla de matcha de grado ceremonial premium cargada de antioxidantes para energía y concentración.",
+      "badges": ["Grado Ceremonial", "Antioxidantes"]
+    },
+    "chaiLatte": {
+      "name": "Polvo de Chai Latte",
+      "description": "Un latte vegano cálido y especiado hecho con sabores tradicionales de chai indio. Comodidad en una taza.",
+      "badges": ["Especias Orgánicas", "Receta Tradicional"]
+    },
+    "lionsMane": {
+      "name": "Polvo de Latte de Melena de León",
+      "description": "Mezcla premium de hongos adaptógenos para apoyo cognitivo y mejora de la salud cerebral.",
+      "badges": ["Apoyo Cognitivo", "Adaptógeno"]
+    }
+  },
+  "features": {
+    "title": "¿Por Qué Elegir Plantique?",
+    "description": "Estamos comprometidos a brindarte la nutrición más pura a base de plantas con calidad sin compromisos, sabor excepcional y prácticas sostenibles.",
+    "plantBased": {
+      "title": "100% a Base de Plantas",
+      "description": "Todos nuestros productos son completamente veganos, libres de crueldad y hechos con los mejores ingredientes vegetales."
+    },
+    "cleanLabel": {
+      "title": "Promesa de Etiqueta Limpia",
+      "description": "Sin aditivos artificiales, conservantes o ingredientes ocultos. Solo bondad pura y natural."
+    },
+    "madeInIndia": {
+      "title": "Hecho en India",
+      "description": "Elaborado con orgullo y amor usando ingredientes de origen local de agricultores indios de confianza."
+    },
+    "premiumQuality": {
+      "title": "Calidad Premium",
+      "description": "Cada producto está cuidadosamente elaborado para ofrecer sabor excepcional y valor nutricional."
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Comenzar tu Viaje Premium a Base de Plantas?",
+    "description": "Únete a miles de consumidores conscientes que han descubierto la mezcla perfecta de salud, sostenibilidad y sabor excepcional. Experimenta la diferencia Plantique.",
+    "button": "Próximamente - Recibe Notificaciones"
+  },
+  "common": {
+    "currency": "€",
+    "reviews": "reseñas"
+  }
+}
+
